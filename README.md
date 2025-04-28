@@ -37,4 +37,4 @@ To use the scripts, follow these steps:
 
 1. **Download the repository** or clone it using Git:
    ```bash
-   git clone https://github.com/feecasso/Windows10-STIG-Remediations.git
+   https://github.com/Feecasso/Internship/tree/main
